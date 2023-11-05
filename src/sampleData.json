@@ -1,0 +1,77 @@
+{"clients": { 
+  "card1":
+  {
+    "id": "1",
+    "noun": "Tony Stark",
+    "adjective": "ironman@gmail.com",
+    "emotion": "343-567-4333",
+    "task": ""
+  }},
+  "card2": {
+  {
+    "id": "2",
+    "noun": "Natasha Romanova",
+    "adjective": "blackwidow@gmail.com",
+    "emotion": "223-567-3322",
+    "task": ""
+  }},
+  "card3": {
+  {
+    "id": "3",
+    "noun": "Thor Odinson",
+    "adjective": "thor@gmail.com",
+    "emotion": "324-331-4333",
+    "task": "",
+  }},
+  {
+    "id": "4",
+    "noun": "Steve Rogers",
+    "adjective": "steve@gmail.com",
+    "emotion": "344-562-6787",
+    "task": "",
+  },
+  {
+    "id": "5",
+    "noun": "Bruce Banner",
+    "adjective": "bruce@gmail.com",
+    "emotion": "321-468-8887",
+    "task": "",
+  },
+  {
+    "id": "6",
+    "noun": "Tony Stark",
+    "adjective": "ironman@gmail.com",
+    "emotion": "343-567-4333",
+    "task": "",
+  },
+  {
+    "id": "7",
+    "noun": "Natasha Romanova",
+    "adjective": "blackwidow@gmail.com",
+    "emotion": "223-567-3322",
+    "task": "",
+  },
+  {
+    "id": "8",
+    "noun": "Thor Odinson",
+    "adjective": "thor@gmail.com",
+    "emotion": "324-331-4333",
+    "task": "",
+  },
+  {
+    "id": "9",
+    "noun": "Steve Rogers",
+    "adjective": "steve@gmail.com",
+    "emotion": "344-562-6787",
+    "task": "",
+  },
+  {
+    "id": "10",
+    "noun": "Bruce Banner",
+    "adjective": "bruce@gmail.com",
+    "emotion": "321-468-8887",
+    "task": "",
+  },
+};
+
+
